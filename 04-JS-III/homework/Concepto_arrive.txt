@@ -1,0 +1,1 @@
+arrays: Listas de elementos de cualquier tipo almacenados en una cagita consecutivamente incluyendo otros arreglos
