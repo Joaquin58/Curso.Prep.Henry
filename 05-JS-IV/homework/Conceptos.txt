@@ -1,0 +1,18 @@
+objetos: Un objeto es un conjunto de diferentes características y comportamientos que se les asigna, podemos acceder 
+a ellas mediante palabras clave
+Propiedades: son las que definen cada objeto y su manera de comportarse durante la ejecución del programa, lo hacen ser
+quien es.
+
+Métodos: Son las funciones que están dentro de los objetos, las cuales permiten que realicen diferentes acciones como modificar
+propiedades del mismo como cualquier función que ya conociamos, esto quiere decir que, todas las funciones son en realidad
+métodos.
+
+Bucle for...in: como los objetos no tienen un número al cual podemos asociar un bucle entonces existe otro metodo para
+con el que podemos hacerlo. Con el bucle for...in, la condición que se cebe cumplir entre paréntesis asignando una variable
+y el nombre de nuestro objeto al que queremos iterar. Esta palabra clave.
+
+Notación de puntos vs notación de corchetes: La principal diferencia es que utilizando la notación de puntos es más rapido
+acceder a las propiedades del objeto, sin embargo, el nombre de la propiedad debe estar estríctamenete dentro del objeto,
+si declaramos una variable con el nombre de la propiedad y la anotamos en la notación de punto está resultará indefinida.
+Para esto, la notación de corchetes es más práctica pues nosotros podemos darle una variable que dentro tiene el nombre de
+la propiedad.
