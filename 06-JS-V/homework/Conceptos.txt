@@ -1,0 +1,10 @@
+Prototype: Es el tipo de comando que antecede cualquier código siento el objeto el el que enceabezza esta lista, ya que antes
+de este no hay más. Básicamente toda la sintaxis, todo el lenguage está asociado a propiedades de los objetos y estos tienen
+sus propias propiedades las cuales podemos invocar sin que nosotros las hayamos definido antes porque estas ya están definidas
+por defecto
+
+Constructors (de Clases): Son moldes para construir nuevos objetos que se parecen entre sí  o mejor dicho que pertenecen
+a la misma clase. Con esto creamos objetos nuevos evitando la molestia de copiar y pegar mucho código y evitar los errores.
+Podemos distinduirla de una función normal porque el nombre de la clase del objeto empieza con la primer letra mayúscula,
+esto no es una obligación pero si está bien visto entre los programadores pues así distinguen cuando es una función normal
+y una función constructora.
