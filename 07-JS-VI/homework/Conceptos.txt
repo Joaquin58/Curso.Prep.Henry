@@ -1,0 +1,2 @@
+Funciones callback: llamamos callback cuando recibimos una función (A) como argumento de otra función (B)
+Esta función (B) invocará la función (A) la cual se ejecutará dentro de esta y completará una acción.
