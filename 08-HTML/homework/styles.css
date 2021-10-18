@@ -1,53 +1,50 @@
+*{
+    text-align: center;
+    margin: 0 auto;
+}
 BODY{
     background-image:url(stephen.jpg);
     background-size:cover;
     background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
-    display: flex; 
-    align-content:center;
-    flex-direction:column;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
 }
 .divClass{
-    max-width: 800px;
-    margin: 0 auto;
-    justify-content: right;
+    width: 800px;
+    color:wheat ;
 }
-.divClass h1{
+h1{
     color: maroon;
     position: relative;
 }
-.divClass h3{
-    position: absolute;
-    top: 40px;
+h3{
+    color:black;
 }
-.divClass h4{
+h4{
     position: fixed;
     bottom: 0;
     right: 0;
     width: 200px;
     background-color: grey ;
 }
-
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: chocolate;
+    padding: 50px;
+    border: 20px solid coral;
+}
 #spanId{
     font-size: 18px;
     margin: 50px; 
 }
-#thirdDiv{
-    min-height: 600px;
-    max-width: 500px;
-    margin: 0 auto;
-    background-color: chocolate;
-    padding: 50px;
-    border: 20px solid coral;
-    -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-            box-sizing: border-box;
-    overflow:auto;
-    padding-left: 0px;
+img{
+width: 400px;
 }
-#thirdDiv img{
-max-width: 400px;
-float: left;
-width: 100%;
+ul{
+    margin: 0px auto;
 }
