@@ -1,0 +1,14 @@
+Variables: Son declaraciones a los que les puedes asignar el valor o la información que quieras y puede cambiar.
+Es decir, la variable puede funcionar como una caja donde puedes guardar cualquier cosa y si la pides te la devuelve.
+
+Strings: son declaraciones donde lo que pongas lo interpreta como una serie de texto. Se escribe entre comillas
+
+Funciones (argumentos, return): es un bloque en el que puedes grabar un conjunto de variables y operaciones, a este le
+puedes asignar un nombre con el que lo puedes invocar. Y con el argumento Return le pedimos a la función que nos muestre
+los resultados de lo que le pedimos que hiciera con los argumentos o valores que le otorgamos.
+
+Declaraciones if: Básicamente esta es una operación donde nosotros establecemos condiciones donde queremos saber sí la
+misma se cumple o no con los valores o las variables que le otorgamos comparándolas entre sí. Dependiendo de si se cumple
+la declaración esta nos devolverá un texto de verdadero o falso.
+
+Valores Booleanos (true, false): Son los valores lógicos de verdadero o falso que le podemos otorgar a una nueva variable. 

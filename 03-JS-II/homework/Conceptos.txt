@@ -1,0 +1,13 @@
+For: Sirve para hace operaciones lógicas condicionales hasta cumplir cierta condición, mientras esta condición no se
+cumpla se ejecutará una serie de comandos o instrucciones hasta que pase lo contrario. Entonces primero necesitamos
+escribir nuestra variable, la condición que queremos que siga esa variable y como queremos que se comporte esa variable.
+Hecho eso tendremos que escribir las instrucciones que queremos que se ejecuten y se muestren en pantalla antes de que la
+condición se cumpla.
+
+%%, ||, ! : Estas son las expresiones lógicas Y, O y NO las cuales comparan dos valores y te devuelven un resultado lógico
+que puede ser verdadero o falso. Con la operación y compara dos valores que previamente se evaluará si son verdaderos o
+falsos, si ambos son verdaderos la operación Y (&&) devolverá como resultado verdadero, pero si uno de ellos o ambos es
+falso devolverá falso. Con O (||), al evaluar ambos valores, sí uno de ellos es verdadero entonces será suficiente para
+que este nos devuelva el resultado de Verdadero y solo devolverá falso si las dos declaraciones son falsas. Por último,
+tenemos la negación NO (!), básicamente lo que haces es que cambia de valor una declaración. Por ejemplo si esta
+declaración era verdadera, al negarla se vuelve falso y viceversa.
